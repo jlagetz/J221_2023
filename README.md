@@ -1,25 +1,25 @@
 ## J221 Class Projects fall 2023
 
-Edison Wu: http://jlagetz.github.io/jlasandbox/Edison
+Edison Wu: http://jlagetz.github.io/J221_2023/Edison
 
-Elizabeth Santos: http://jlagetz.github.io/jlasandbox/Elizabeth
+Elizabeth Santos: http://jlagetz.github.io/J221_2023/Elizabeth
 
-Hailey Wang: http://jlagetz.github.io/jlasandbox/Hailey
+Hailey Wang: http://jlagetz.github.io/J221_2023/Hailey
 
-Jeremiah Rhodes: http://jlagetz.github.io/jlasandbox/Jeremiah
+Jeremiah Rhodes: http://jlagetz.github.io/J221_2023/Jeremiah
 
-Kristie Song: http://jlagetz.github.io/jlasandbox/Kristie
+Kristie Song: http://jlagetz.github.io/J221_2023/Kristie
 
-Manasvi Shah: http://jlagetz.github.io/jlasandbox/Manasvi
+Manasvi Shah: http://jlagetz.github.io/J221_2023/Manasvi
 
-Nadia Lathan: http://jlagetz.github.io/jlasandbox/Nadia
+Nadia Lathan: http://jlagetz.github.io/J221_2023/Nadia
 
-Najim Rahim: http://jlagetz.github.io/jlasandbox/Najim
+Najim Rahim: http://jlagetz.github.io/J221_2023/Najim
 
-Olivia Qiu: http://jlagetz.github.io/jlasandbox/Olivia
+Olivia Qiu: http://jlagetz.github.io/J221_2023/Olivia
 
-Rebeca San Martin: http://jlagetz.github.io/jlasandbox/Beki
+Rebeca San Martin: http://jlagetz.github.io/J221_2023/Beki
 
-Simmerdeep Kaur: http://jlagetz.github.io/jlasandbox/Simmer
+Simmerdeep Kaur: http://jlagetz.github.io/J221_2023/Simmer
 
-Sobhan Hassanvand: http://jlagetz.github.io/jlasandbox/Sobhan
+Sobhan Hassanvand: http://jlagetz.github.io/J221_2023/Sobhan
