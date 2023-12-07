@@ -18,7 +18,7 @@ Nadia Lathan: http://jlagetz.github.io/J221_2023/Nadia
 
 Najim Rahim: http://jlagetz.github.io/J221_2023/Najim
 
-Olivia Qiu: http://jlagetz.github.io/J221_2023/Olivia
+Olivia Qiu: https://jiayiq.github.io/html/Georgia.html
 
 Rebeca San Martin: http://jlagetz.github.io/J221_2023/Beki
 
