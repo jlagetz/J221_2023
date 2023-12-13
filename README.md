@@ -10,8 +10,6 @@ Hailey Wang: http://jlagetz.github.io/J221_2023/Hailey
 
 Jeremiah Rhodes: http://jlagetz.github.io/J221_2023/Jeremiah
 
-Kristie Song: http://jlagetz.github.io/J221_2023/Kristie
-
 Manasvi Shah: http://jlagetz.github.io/J221_2023/Manasvi
 
 Nadia Lathan: http://jlagetz.github.io/J221_2023/Nadia
@@ -19,8 +17,6 @@ Nadia Lathan: http://jlagetz.github.io/J221_2023/Nadia
 Najim Rahim: http://jlagetz.github.io/J221_2023/Najim
 
 Olivia Qiu: https://jiayiq.github.io/html/Georgia.html
-
-Rebeca San Martin: http://jlagetz.github.io/J221_2023/Beki
 
 Simmerdeep Kaur: http://jlagetz.github.io/J221_2023/Simmer
 
