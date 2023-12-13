@@ -12,7 +12,7 @@ Jeremiah Rhodes: http://jlagetz.github.io/J221_2023/Jeremiah
 
 Manasvi Shah: http://jlagetz.github.io/J221_2023/Manasvi
 
-Nadia Lathan: http://jlagetz.github.io/J221_2023/Nadia
+Nadia Lathan: https://jlagetz.github.io/J221_2023/Nadia/
 
 Najim Rahim: http://jlagetz.github.io/J221_2023/Najim
 
