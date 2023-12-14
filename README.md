@@ -1,7 +1,5 @@
 ## J221 Class Projects fall 2023
 
-Example: http://jlagetz.github.io/J221_2023/Example
-
 Edison Wu: http://jlagetz.github.io/J221_2023/Edison
 
 Elizabeth Santos: http://jlagetz.github.io/J221_2023/Elizabeth
