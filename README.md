@@ -10,7 +10,7 @@ Hailey Wang: http://jlagetz.github.io/J221_2023/Hailey
 
 Jeremiah Rhodes: http://jlagetz.github.io/J221_2023/Jeremiah
 
-Manasvi Shah: <a href="https://jlagetz.github.io/J221_2023/Manasvi/manasvi_shah.pdf" target="_blank">PDF.</a>
+<a href="https://jlagetz.github.io/J221_2023/Manasvi/manasvi_shah.pdf" target="_blank">Manasvi Shah</a>
 
 Nadia Lathan: https://jlagetz.github.io/J221_2023/Nadia
 
