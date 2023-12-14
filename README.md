@@ -2,7 +2,7 @@
 
 Edison Wu: http://jlagetz.github.io/J221_2023/Edison
 
-Elizabeth Santos: http://jlagetz.github.io/J221_2023/Elizabeth
+<a href="http://jlagetz.github.io/J221_2023/Elizabeth">Elizabeth Santos</a>
 
 Hailey Wang: http://jlagetz.github.io/J221_2023/Hailey
 
