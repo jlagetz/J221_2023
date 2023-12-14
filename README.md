@@ -16,7 +16,7 @@ Jeremiah Rhodes: http://jlagetz.github.io/J221_2023/Jeremiah
 
 Najim Rahim: http://jlagetz.github.io/J221_2023/Najim
 
-Olivia Qiu: https://jiayiq.github.io/html/Georgia.html
+<a href="https://jiayiq.github.io/html/Georgia.html">Olivia Qiu</a>
 
 Simmerdeep Kaur: http://jlagetz.github.io/J221_2023/Simmer
 
